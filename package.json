@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Johnathon Lubaway's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Johnathon Lubaway",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
