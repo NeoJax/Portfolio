@@ -4,12 +4,15 @@
   "description": "Johnathon Lubaway's Portfolio Website",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "start": "nodemon server.js"
   },
   "author": "Johnathon Lubaway",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4",
+    "semantic-ui": "^2.2.13"
   }
 }
