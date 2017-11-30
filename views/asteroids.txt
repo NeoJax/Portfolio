@@ -1,0 +1,5 @@
+Make asteroids. This will obviously be a bit harder.
+Doing this will require certain assets.
+Controlling the ship, asteroids turning into smaller asteroid until a certain point.
+Projectiles.
+Probably some other things
