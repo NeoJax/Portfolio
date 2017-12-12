@@ -1,0 +1,45 @@
+Parts needed doing
+
+Flesh out each pages
+  Add a header
+    Add links to every page
+    Put my name on it? or some kinda witty title for the portfolio page
+  Add layouts to each page
+  Add a footer
+    Contact info
+      Icons for said info
+    Resume(Make sure its obvious)
+
+Projects
+  Work from maybe easiest to hardest
+  Game-Of-Life
+    Make a re-sizable board
+      Make it look nice and maybe color different combinations?
+  Restful-API
+    Not entirely sure
+  AI-maze
+    Make a base for the maze like maybe a node that shows possible ways to go
+      Visualize the maze
+        Solve the maze different ways(Depth first search, Breadth first, etc)
+          Make it so the solution is being outlined
+  Tetris
+    Make a board
+      Make keyboard interaction work
+        Make Pieces
+          Make interaction with pieces work
+            Make Next Piece icon
+        Clear Row stuffs
+  Asteroids
+    Make a board
+    Make Pieces
+      Make Ship
+        Keyboard interaction
+        Asteroid Interaction
+      Make Asteroids
+        Make explosive asteroids
+
+Make the pages look better
+  Maybe find a better color scheme
+  Also maybe make a mock-up of each page
+
+Find a host for your site
