@@ -15,8 +15,6 @@ Projects
   Game-Of-Life
     Make a re-sizable board
       Make it look nice and maybe color different combinations?
-  Restful-API
-    Not entirely sure
   AI-maze
     Make a base for the maze like maybe a node that shows possible ways to go
       Visualize the maze
