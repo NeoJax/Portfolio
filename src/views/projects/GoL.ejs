@@ -1,7 +1,23 @@
 <% include ../partials/header %>
 
-<div class="">
-  OH MAN
-</div>
+<div class="ui container center aligned grid">
+  <div class="">
+    <div class="ui celled center aligned grid">
+      <% let count = 0; %>
+      <% for(let i=0; i < 5; i++) {%>
+        <div class="ui row">
+          <% for(let i=0; i < 5; i++) {%>
+            <div class="white ui large buttons" style="background: none">
+              <button id=<%= count %> class="ui button icon fluid" type="button" name="button"></button>
+            </div>
+            <% count++; %>
+            <% } %>
+          </div>
+          <% } %>
+        </div>
 
-<% include ../partials/footer %>
+      </div>
+    </div>
+    <br>
+    <br>
+    <% include ../partials/footer %>

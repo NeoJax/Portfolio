@@ -12,14 +12,8 @@ const routes = express.Router();
 
 routes.get('/', (req, res) => res.redirect('/about'));
 routes.use('/about', about);
-
-routes.get('/projects');
 routes.use('/projects', projects);
-
-routes.get('/resume');
 routes.use('/resume', resume);
-
-routes.get('/contact');
 routes.use('/contact', contact);
 
 
